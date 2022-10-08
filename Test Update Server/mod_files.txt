@@ -1,1 +1,1 @@
-add Sonic.dll
+delete Sonic.dll
