@@ -1,1 +1,2 @@
 delete Sonic.dll
+add mod.ini
